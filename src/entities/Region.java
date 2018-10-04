@@ -10,5 +10,6 @@ package entities;
  * @author USER
  */
 public class Region {
-    
+    int id;
+    String name;
 }
