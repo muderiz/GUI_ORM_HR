@@ -10,5 +10,5 @@ package entities;
  * @author USER
  */
 public class Location {
-    
+    //-------------- INI LOCATION LOH GUYS ---------------//
 }
