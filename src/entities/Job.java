@@ -10,5 +10,8 @@ package entities;
  * @author USER
  */
 public class Job {
-    
+    private String jobId;
+    private String jobTitle;
+    private Integer minSalary;
+    private Integer maxSalary;
 }
