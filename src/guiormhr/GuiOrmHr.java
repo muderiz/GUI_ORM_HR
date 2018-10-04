@@ -32,6 +32,7 @@ public class GuiOrmHr {
     //ini branch employee qaqa
     //by Nande~~
 
+
     // Martin Was Here
     //I am Nande
 
@@ -44,4 +45,16 @@ public class GuiOrmHr {
     //I am Nande
     //Bagaimana caranya untuk meruntuhkan kerasnya hatimu
     //Ku sadari ku tak sempurna
+
+    // Martin Was Here
+    //I am Nande
+
+    //awaw
+    //aw
+
+
+    //tambah gula 
+    // Martin Was Here
+    //I am Nande
+
 }
