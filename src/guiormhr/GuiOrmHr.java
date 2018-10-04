@@ -27,8 +27,7 @@ public class GuiOrmHr {
     }
     //cobacoba
     //coba2
-    //lagilagilagi
-    //dcnsichsucvjhsdurvjhc
+
 
     //ini branch employee qaqa
     //by Nande~~
@@ -42,7 +41,6 @@ public class GuiOrmHr {
 
     //jejak ica
     //yoayoyoayoyoyoayo
-    //ke mastah
 
     // Martin Was Here
     //I am Nande
