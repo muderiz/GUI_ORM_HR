@@ -10,5 +10,5 @@ package entities;
  * @author USER
  */
 public class Department {
-    
+    //Isi dari Department
 }
