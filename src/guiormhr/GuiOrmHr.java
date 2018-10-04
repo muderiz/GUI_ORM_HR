@@ -19,4 +19,5 @@ public class GuiOrmHr {
     }
     //cobacoba
     //coba2
+    //Bagaimana caranya untuk meruntuhkan kerasnya hatimu
 }
