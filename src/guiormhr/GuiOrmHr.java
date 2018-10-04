@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -22,40 +23,35 @@ public class GuiOrmHr {
         System.out.println("E cobalah");
 
         System.out.println("contoh hehe");
+        System.out.println("=========================================================================================");
+        System.out.println("=====================       ======    ====    ====    =====    ==========================");
+        System.out.println("===================    ===    ====    ====    ==    =======    ==========================");
+        System.out.println("==================    ============    ====         ========    ==========================");
+        System.out.println("===================    ===    ====    ====    ==    =======    ==========================");
+        System.out.println("=====================        =====    ====    ====    =====    ==========================");
+        System.out.println("=========================================================================================");
+        System.out.println("=========================================================================================");
+        System.out.println("=========================================================================================");
+        System.out.println("=======       ======    ====    =====    ====    ====        ==========     =============");
+        System.out.println("=====    ===    ====    ====    =====    ====    ====    ==    ======    =    ===========");
+        System.out.println("====    ============            =====    ====    ====         ======    ===    ==========");
+        System.out.println("=====    ===    ====    ====    =====     ==     ====    ==    ====             =========");
+        System.out.println("=======        =====    ====    ======          =====        =====    =======    ========");
+        System.out.println("=========================================================================================");
 
-        
     }
     //cobacoba
     //coba2
-//lagilagilagilagi
 
     //ini branch employee qaqa
     //by Nande~~
-
-
     // Martin Was Here
     //I am Nande
-
     //awaw
     //aw
-
-    //jejak ica
-    //yoayoyoayoyoyoayo
-
-    // Martin Was Here
-    //I am Nande
-    //Bagaimana caranya untuk meruntuhkan kerasnya hatimu
-    //Ku sadari ku tak sempurna
-
-    // Martin Was Here
-    //I am Nande
-
-    //awaw
-    //aw
-
-
     //tambah gula 
     // Martin Was Here
     //I am Nande
-
 }
+
+
