@@ -17,6 +17,8 @@ public class GuiOrmHr {
     public static void main(String[] args) {
         // TODO code application logic here
 
+        System.out.println("contoh hehe");
+
         System.out.println("E cobalah");
 
         System.out.println("contoh hehe");
@@ -25,8 +27,20 @@ public class GuiOrmHr {
     }
     //cobacoba
     //coba2
+
+
+    //ini branch employee qaqa
+    //by Nande~~
+
     // Martin Was Here
     //I am Nande
+
     //awaw
     //aw
+
+
+    //tambah gula 
+    // Martin Was Here
+    //I am Nande
+
 }
