@@ -16,13 +16,32 @@ public class GuiOrmHr {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
         System.out.println("contoh hehe");
+
+        System.out.println("E cobalah");
+
+        System.out.println("contoh hehe");
+
         
     }
     //cobacoba
     //coba2
-    //huhuhahahaaa
+
+
+    //ini branch employee qaqa
+    //by Nande~~
+
+    // Martin Was Here
+    //I am Nande
+
+    //awaw
+    //aw
+
+
+
     // Martin Was Here
     //I am Nande
     //Bagaimana caranya untuk meruntuhkan kerasnya hatimu
+    //Ku sadari ku tak sempurna
 }
