@@ -10,5 +10,9 @@ package entities;
  * @author USER
  */
 public class Job {
+    String id;
+    String name;
+    public Job() {
+    }
     
 }
