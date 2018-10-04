@@ -10,5 +10,7 @@ package entities;
  * @author USER
  */
 public class Employee {
-    
+    public String getMessage(){
+        return "Hello from Employee";
+    }
 }
