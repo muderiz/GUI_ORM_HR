@@ -23,7 +23,7 @@ public class GuiOrmHr {
 
         System.out.println("contoh hehe");
 
-        
+//       /zzzzz
     }
     //cobacoba
     //coba2
