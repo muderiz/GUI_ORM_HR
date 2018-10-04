@@ -16,7 +16,17 @@ public class GuiOrmHr {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+        System.out.println("E cobalah");
+
+        System.out.println("contoh hehe");
+
+        
     }
     //cobacoba
     //coba2
+    // Martin Was Here
+    //I am Nande
+    //awaw
+    //aw
 }
